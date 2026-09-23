@@ -11,9 +11,11 @@ import java.io.PrintWriter;
 public class ApiKeyServlet extends HttpServlet {
 
     private String apiKey;
+    private String dburl;
 
     public void init() throws ServletException {
         apiKey = getInitParameter("apiKey");
+        dburl = getServletContext().getInitParameter("dbConnectionString");
 
         if (apiKey == null || apiKey.trim().isEmpty()){
             throw new ServletException("Erreur : le param apikey est absent ");

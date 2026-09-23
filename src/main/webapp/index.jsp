@@ -9,6 +9,7 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <br/><br/>
+<a href="PageServlet">Page count Servlet</a>
 
 <hr>
 <h3>Exercice API 4 : Test de la SecondeServelet</h3>

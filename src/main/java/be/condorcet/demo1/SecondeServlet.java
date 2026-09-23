@@ -11,7 +11,7 @@ import java.io.PrintWriter;
         name = "SecondeServelet",
         value = "/SecondeServelet",
         initParams = {
-                @WebInitParam(name = "maintenanceMode", value = "false")
+                @WebInitParam(name = "maintenanceMode", value = "False")
         }
 )
 public class SecondeServlet extends HttpServlet {
