@@ -65,7 +65,6 @@ public class LoginServlet extends HttpServlet {
         else {
             out.println("<h1>GET OUT HAHAHAHAHAHAAH</h1>");
             out.println("<img src=\"https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2oxemlwbmt3cWVjN2h4eHE0cDA4eWZxcW0zZjE4cnZ3YjU0dmI0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VZXJyfOqpvuiIw3oJM/giphy.gif\" width=\"400\">");
-
         }
 
 
