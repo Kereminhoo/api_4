@@ -15,7 +15,7 @@ import java.io.PrintWriter;
 // singleton (instance seule) Thread (plusieurs instances)
 
 
-@WebServlet(name = "PageServlet", value = "/PageServlet")
+@WebServlet(name = "PageServlet", value = "/Visite")
 public class PageServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)

@@ -9,7 +9,9 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <br/><br/>
-<a href="PageServlet">Page count Servlet</a>
+<a href="Visite">Page count Servlet</a>
+<br/><br/>
+<a href="admin/stats">Voir les statistiques</a>
 
 <hr>
 <h3>Exercice API 4 : Test de la SecondeServelet</h3>
@@ -20,6 +22,10 @@
 </p>
 <p>
     <a href="SecondeServelet?nom=Samed&age=15">Test avec Samed, 15 ans (< 18)</a>
+</p>
+
+<p>
+    <h3>--------------------------------------------------------------------------------------</h3>
 </p>
 
 </body>
