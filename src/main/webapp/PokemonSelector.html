@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Selection des Pokémon</title>
+</head>
+<body>
+
+<h2>Choisissez votre Pokémon :</h2>
+
+<form action="PokemonReceiver" method="post">
+
+    <input type="radio" id="Pikachu" name="pokemon" value="Pikachu">
+    <label for="Pikachu">Pikachu</label>
+
+    <br><br>
+
+    <input type="radio" id="Bulbizarre" name="pokemon" value="Bulbizarre">
+    <label for="Bulbizarre">Bulbizarre</label>
+
+    <br><br>
+
+    <input type="radio" id="Salamèche" name="pokemon" value="Salamèche">
+    <label for="Salamèche">Salamèche</label>
+
+    <br><br>
+
+    <input type="radio" id="Carapuce" name="pokemon" value="Carapuce">
+    <label for="Carapuce">Carapuce</label>
+
+    <br><br>
+
+    <input type="radio" id="Évoli" name="pokemon" value="Évoli">
+    <label for="Évoli">Évoli</label>
+
+    <br><br>
+
+    <label for="level">Niveau :</label>
+    <input type="number" id="level" name="level" min="1" max="100">
+
+    <br><br>
+
+    <input type="checkbox" id="evolution" name="evolution" value="oui">
+    <label for="evolution">Faire évoluer le Pokémon</label>
+
+    <br><br>
+
+    <button type="submit">Envoyer</button>
+
+</form>
+
+</body>
+</html>
