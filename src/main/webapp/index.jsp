@@ -35,6 +35,24 @@
 <p>
     <a href="connection2">Test Connection Servlet 2</a>
 </p>
+<h3>--------------------------------------------------------------------------------------</h3>
+
+
+<br/>
+<a href="QueryStringSender.html">Query String Sender</a>
+<br/><br/>
+<a href="QueryStringReceiver">Query String Receiver</a>
+
+<h3>--------------------------------------------------------------------------------------</h3>
+
+
+<br/>
+<a href="FormDataSender.html">Form Data Sender</a>
+<br/><br/>
+<a href="DataReceiver">Data Receiver</a>
+
+
+
 
 
 </body>
