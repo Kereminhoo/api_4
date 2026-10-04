@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Gestion des reponses</title>
+</head>
+<body>
+
+<h2>Gestion des réponses</h2>
+
+<form action="ResponseHandler" method="post">
+
+    <label for="username">Entrez votre nom :</label>
+    <input type="text" id="username" name="username">
+
+    <br><br>
+    <label for="responseType">Choisissez un type de reponse :</label>
+
+    <select id="responseType" name="responseType">
+        <option value="bienvenue">Message de bienvenue</option>
+        <option value="encouragement">Message d'encouragement</option>
+        <option value="remerciement">Message de remerciement</option>
+    </select>
+
+    <br><br>
+    <button type="submit">Envoyer</button>
+
+</form>
+
+</body>
+</html>

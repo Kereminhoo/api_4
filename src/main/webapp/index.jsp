@@ -57,7 +57,10 @@
 <a href="PokemonSelector.html">Form Pokemon Sender</a>
 
 
+<h3>--------------------------------------------------------------------------------------</h3>
 
+<br/>
+<a href="ResponseSelector.html">Response Selecteur</a>
 
 
 </body>
