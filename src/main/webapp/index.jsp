@@ -62,7 +62,10 @@
 <br/>
 <a href="ResponseSelector.html">Response Selecteur</a>
 
+<h3>--------------------------------------------------------------------------------------</h3>
 
+<br/>
+<a href="StatusHandler.html">Response avec Statuts</a>
 </body>
 </html>
 
