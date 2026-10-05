@@ -1,4 +1,4 @@
-package be.condorcet.demo1;
+package be.condorcet.demo1.web;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebInitParam;
 import jakarta.servlet.annotation.WebServlet;
