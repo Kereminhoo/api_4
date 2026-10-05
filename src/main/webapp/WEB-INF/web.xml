@@ -11,7 +11,7 @@
     
     <servlet>
         <servlet-name>ApiKeyServlet</servlet-name>
-        <servlet-class>be.condorcet.demo1.ApiKeyServlet</servlet-class>
+        <servlet-class>be.condorcet.demo1.web.ApiKeyServlet</servlet-class>
 
         <init-param>
             <param-name>apiKey</param-name>

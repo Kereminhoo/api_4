@@ -1,4 +1,4 @@
-package be.condorcet.demo1;
+package be.condorcet.demo1.web;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
