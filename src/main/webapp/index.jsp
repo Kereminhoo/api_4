@@ -66,6 +66,9 @@
 
 <br/>
 <a href="StatusHandler.html">Response avec Statuts</a>
+
+<br/>
+<a href="/WEB-INF/character.jsp">character</a>
 </body>
 </html>
 
