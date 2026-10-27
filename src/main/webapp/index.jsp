@@ -67,8 +67,26 @@
 <br/>
 <a href="StatusHandler.html">Response avec Statuts</a>
 
+<h3>--------------------------------------------------------------------------------------</h3>
 <br/>
-<a href="/WEB-INF/character.jsp">character</a>
+<a href="http://localhost:8080/demo1-1.0-SNAPSHOT/CharacterServlet">character</a>
+
+<h3>--------------------------------------------------------------------------------------</h3>
+
+<br/>
+<a href="http://localhost:8080/demo1-1.0-SNAPSHOT/playlist">Playlist</a>
+
+<h3>--------------------------------------------------------------------------------------</h3>
+<br/>
+
+<a href="http://localhost:8080/demo1-1.0-SNAPSHOT/QuizServlet">quizzz</a>
+
+<h3>--------------------------------------------------------------------------------------</h3>
+
+<br/>
+<a href="videos">Createur francophone</a>
+
+<h3>--------------------------------------------------------------------------------------</h3>
 </body>
 </html>
 
